@@ -2,5 +2,10 @@ HELLO WWORLD
 
 My name is AZIZ
 
+nmadirri change qilib, yana commit qilish kere
 
-save qlas
+bu narsa birinchi commit ni  push qilish kere, keyin yangi commit yozish mumkin dvotti
+
+shunaqa chiqsa uje githubga changelariz borgan bo'ladi
+
+git status yozilsa, qaysi filelada o'zgarish bor oshani korstberadi
