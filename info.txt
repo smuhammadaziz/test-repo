@@ -9,3 +9,6 @@ bu narsa birinchi commit ni  push qilish kere, keyin yangi commit yozish mumkin 
 shunaqa chiqsa uje githubga changelariz borgan bo'ladi
 
 git status yozilsa, qaysi filelada o'zgarish bor oshani korstberadi
+
+
+git log nma qberadi, gitdagi hamma istoriyalani korstberadi, qachon push, commit qilindi osha narsalani
