@@ -12,3 +12,6 @@ git status yozilsa, qaysi filelada o'zgarish bor oshani korstberadi
 
 
 git log nma qberadi, gitdagi hamma istoriyalani korstberadi, qachon push, commit qilindi osha narsalani
+
+"git push origin main" va "git push" ni farqi 1ta narsada, pasda qaysi branch turgan bo'sa, osha branchga PUSH qiladi agar "git push" ni ozini yozsez.
+Agar "git push origin main " yozsez faqat osha main branch ga PUSH qladi, pastegi branchga qaramidi
